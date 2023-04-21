@@ -1,0 +1,23 @@
+.eles{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+}
+
+.ele{
+    display: flex;
+    height: 50px;
+    width: 50px;
+    color: white;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    user-select: none;
+}
+
+.elecurr{
+    background-color: blue;
+}
+
